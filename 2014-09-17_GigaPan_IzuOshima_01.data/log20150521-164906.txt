@@ -1,0 +1,312 @@
+2015-05-21 16:49:06 {0} [ console ] : Redirect successful
+2015-05-21 16:49:20 {0} [ console ] : paintGL: frame 50: 12.4 msec, alloc=585 ready=585 drawn=252
+2015-05-21 16:49:25 {0} [ console ] : paintGL: frame 150:  7.3 msec, alloc=1028 ready=1028 drawn=260
+2015-05-21 16:49:28 {0} [ console ] : Loading 140 image thumbnails
+2015-05-21 16:49:28 {0} [ console ] : add_images_with_correction:  using 1 threads
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175235.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175236.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175237.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175238.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175241.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175242.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175243.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175244.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175245.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175246.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175247.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175248.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175249.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175250.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175251.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175252.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175253.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175254.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175255.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175256.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175257.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175258.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175259.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175260.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175261.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175262.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175263.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175264.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175265.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175266.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175267.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175268.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175269.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175270.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175271.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175272.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175273.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175274.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175275.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175276.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175277.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175278.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175279.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175280.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175281.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175282.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175283.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175284.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175285.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175286.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175287.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175288.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175289.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175290.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175291.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175292.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175293.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175294.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175295.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175296.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175297.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175298.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175299.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175300.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175301.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175302.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175303.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175304.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175305.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175306.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175307.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175308.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175309.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175310.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175311.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175312.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175313.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175314.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175315.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175316.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175317.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175318.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175319.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175320.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175321.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175322.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175323.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175324.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175325.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175326.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175327.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175328.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175329.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175330.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175331.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175332.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175333.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175334.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175335.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175336.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175337.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175338.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175339.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175340.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175341.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175342.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175343.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175344.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175345.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175346.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175347.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175348.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175349.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175350.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175351.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175352.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175353.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175354.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175355.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175356.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175357.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175358.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175359.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175360.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175361.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175362.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175363.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175364.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175365.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175366.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175367.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175368.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175369.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175370.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175371.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175372.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175373.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175374.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175375.JPG
+2015-05-21 16:49:28 {0} [ console ] : ReadImageTask /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175376.JPG
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175235.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175236.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175237.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175238.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175241.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175242.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175243.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175244.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175245.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175246.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175247.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175248.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175249.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175250.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175251.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175252.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175253.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175254.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175255.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175256.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175257.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175258.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175259.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175260.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175261.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175262.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175263.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175264.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175265.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175266.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175267.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175268.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175269.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175270.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175271.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175272.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175273.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175274.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175275.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175276.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175277.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175278.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175279.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175280.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175281.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175282.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175283.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175284.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175285.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175286.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175287.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175288.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175289.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175290.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175291.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175292.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175293.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175294.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175295.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175296.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175297.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175298.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175299.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175300.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175301.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175302.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175303.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175304.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175305.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175306.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175307.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175308.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175309.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175310.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175311.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175312.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175313.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175314.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175315.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175316.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175317.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175318.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175319.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175320.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175321.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175322.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175323.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175324.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175325.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175326.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175327.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175328.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175329.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175330.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175331.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175332.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175333.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175334.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175335.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175336.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175337.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175338.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175339.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175340.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175341.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175342.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175343.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175344.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175345.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175346.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175347.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175348.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175349.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175350.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175351.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175352.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175353.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175354.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175355.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175356.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175357.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175358.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175359.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175360.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175361.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175362.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175363.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175364.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175365.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175366.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175367.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175368.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175369.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175370.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175371.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175372.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175373.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175374.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175375.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:28 {4} [ console ] : /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_01/P9175376.JPG: thumbnail is 160x120 type 0x0201
+2015-05-21 16:49:29 {0} [ console ] : add_images_with_correction iter=0 read_size=140 error_size=0
+2015-05-21 16:49:58 {0} [ console ] : paintGL: frame 250:  6.8 msec, alloc=964 ready=962 drawn=263
+2015-05-21 16:50:02 {0} [ console ] : paintGL: frame 350:  6.7 msec, alloc=1337 ready=1155 drawn=115
+2015-05-21 16:50:05 {0} [ console ] : paintGL: frame 450:  5.4 msec, alloc=1721 ready=1563 drawn=50
+2015-05-21 16:50:08 {0} [ console ] : paintGL: frame 550:  0.5 msec, alloc=451 ready=451 drawn=21
+2015-05-21 16:50:09 {0} [ console ] : paintGL: frame 650:  3.7 msec, alloc=375 ready=292 drawn=49
+2015-05-21 16:50:12 {0} [ console ] : paintGL: frame 750:  1.4 msec, alloc=1009 ready=999 drawn=56
+2015-05-21 16:50:16 {0} [ console ] : paintGL: frame 850:  1.4 msec, alloc=875 ready=875 drawn=70
+2015-05-21 16:50:20 {0} [ console ] : paintGL: frame 950:  3.3 msec, alloc=499 ready=495 drawn=144
+2015-05-21 16:50:29 {0} [ console ] : paintGL: frame 1050:  1.7 msec, alloc=471 ready=471 drawn=77
+2015-05-21 16:50:32 {0} [ console ] : paintGL: frame 1150:  5.5 msec, alloc=791 ready=790 drawn=124
+2015-05-21 16:50:36 {0} [ console ] : paintGL: frame 1250:  2.6 msec, alloc=895 ready=895 drawn=77
+2015-05-21 16:50:47 {0} [ console ] : open_gigapan /Users/taichi/Pictures/2014-09-14_GigaPan_VisionsAsia_viewpoint03/2014-09-14_GigaPan_VisionsAsia_viewpoint03.gigapan
+2015-05-21 16:50:47 {0} [ console ] : GigapanStitcher::init_all
+2015-05-21 16:50:47 {0} [ console ] : GigapanStitcher::init_stitch
+2015-05-21 16:50:47 {0} [ console ] : QuadTree::~QuadTree: total deleted nodes encountered while adding: 384
+2015-05-21 16:50:47 {0} [ console ] : QuadTreePagerThread::stop: number of tile read errors: 0
+2015-05-21 16:50:47 {0} [ console ] : Initializing stitch_mode, upload_mode, upload_requested
+2015-05-21 16:50:47 {0} [ console ] : Read /Users/taichi/Pictures/2014-09-14_GigaPan_VisionsAsia_viewpoint03/2014-09-14_GigaPan_VisionsAsia_viewpoint03.gigapan successfully
+2015-05-21 16:50:47 {0} [ console ] : Found /Users/taichi/Pictures/2014-09-14_GigaPan_VisionsAsia_viewpoint03/2014-09-14_GigaPan_VisionsAsia_viewpoint03.data/tiles/r.info
+2015-05-21 16:50:47 {0} [ console ] : Switching stitch_mode to STITCH_FINISHED_MODE
+2015-05-21 16:50:47 {0} [ console ] : QuadTreeInfo: read from /Users/taichi/Pictures/2014-09-14_GigaPan_VisionsAsia_viewpoint03/2014-09-14_GigaPan_VisionsAsia_viewpoint03.data/tiles/r.info, tree has 9 levels
+2015-05-21 16:50:47 {0} [ console ] : valid_tiles_at_level(8)=Vector2(237,48)
+2015-05-21 16:50:47 {0} [ console ] : TileStatusSet created, m_work_level=8 width=237 height=48
+2015-05-21 16:50:47 {0} [ console ] : setup_viewer
+2015-05-21 16:50:47 {0} [ console ] : NodeFilter::NodeFilter: black=0.0 white=100.0 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=1
+2015-05-21 16:50:47 {0} [ console ] : Redirecting log to: /Users/taichi/Pictures/2014-09-14_GigaPan_VisionsAsia_viewpoint03/2014-09-14_GigaPan_VisionsAsia_viewpoint03.data/log20150521-165047.txt

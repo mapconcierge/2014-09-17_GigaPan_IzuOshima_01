@@ -1,0 +1,18 @@
+2015-12-20 15:50:00 {0} [ console ] : Redirect successful
+2015-12-20 15:50:02 {0} [ console ] : paintGL: frame 50: 10.8 msec, alloc=399 ready=391 drawn=74
+2015-12-20 15:50:05 {0} [ console ] : paintGL: frame 150:  0.7 msec, alloc=619 ready=615 drawn=18
+2015-12-20 15:50:11 {0} [ console ] : open_gigapan /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_03/2014-09-17_GigaPan_IzuOshima_03.gigapan
+2015-12-20 15:50:11 {0} [ console ] : GigapanStitcher::init_all
+2015-12-20 15:50:11 {0} [ console ] : GigapanStitcher::init_stitch
+2015-12-20 15:50:11 {0} [ console ] : QuadTree::~QuadTree: total deleted nodes encountered while adding: 0
+2015-12-20 15:50:11 {0} [ console ] : QuadTreePagerThread::stop: number of tile read errors: 0
+2015-12-20 15:50:11 {0} [ console ] : Initializing stitch_mode, upload_mode, upload_requested
+2015-12-20 15:50:11 {0} [ console ] : Read /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_03/2014-09-17_GigaPan_IzuOshima_03.gigapan successfully
+2015-12-20 15:50:11 {0} [ console ] : Found /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_03/2014-09-17_GigaPan_IzuOshima_03.data/tiles/r.info
+2015-12-20 15:50:11 {0} [ console ] : Switching stitch_mode to STITCH_FINISHED_MODE
+2015-12-20 15:50:11 {0} [ console ] : QuadTreeInfo: read from /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_03/2014-09-17_GigaPan_IzuOshima_03.data/tiles/r.info, tree has 9 levels
+2015-12-20 15:50:11 {0} [ console ] : valid_tiles_at_level(8)=Vector2(235,65)
+2015-12-20 15:50:11 {0} [ console ] : TileStatusSet created, m_work_level=8 width=235 height=65
+2015-12-20 15:50:11 {0} [ console ] : setup_viewer
+2015-12-20 15:50:11 {0} [ console ] : NodeFilter::NodeFilter: black=0.0 white=100.0 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=1
+2015-12-20 15:50:11 {0} [ console ] : Redirecting log to: /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_03/2014-09-17_GigaPan_IzuOshima_03.data/log20151220-155011.txt

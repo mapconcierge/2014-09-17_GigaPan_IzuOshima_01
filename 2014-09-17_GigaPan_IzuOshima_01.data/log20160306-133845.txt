@@ -1,0 +1,57 @@
+2016-03-06 13:38:45 {0} [ console ] : Redirect successful
+2016-03-06 13:38:48 {0} [ console ] : paintGL: frame 50:  0.9 msec, alloc=98 ready=90 drawn=34
+2016-03-06 13:38:52 {0} [ console ] : paintGL: frame 150:  0.6 msec, alloc=250 ready=242 drawn=19
+2016-03-06 13:38:55 {0} [ console ] : paintGL: frame 250:  0.4 msec, alloc=256 ready=256 drawn=12
+2016-03-06 13:38:57 {0} [ console ] : To exit full screen mode, press Esc
+2016-03-06 13:39:02 {0} [ console ] : set_color_transform: black=6.6 white=100.0 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=2
+2016-03-06 13:39:02 {0} [ console ] : set_color_transform: black=7.4 white=100.0 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=3
+2016-03-06 13:39:02 {0} [ console ] : set_color_transform: black=16.4 white=100.0 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=4
+2016-03-06 13:39:02 {0} [ console ] : set_color_transform: black=21.9 white=100.0 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=5
+2016-03-06 13:39:02 {0} [ console ] : set_color_transform: black=22.7 white=100.0 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=6
+2016-03-06 13:39:03 {0} [ console ] : set_color_transform: black=23.0 white=100.0 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=7
+2016-03-06 13:39:03 {0} [ console ] : set_color_transform: black=26.2 white=100.0 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=8
+2016-03-06 13:39:03 {0} [ console ] : set_color_transform: black=23.4 white=100.0 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=9
+2016-03-06 13:39:03 {0} [ console ] : set_color_transform: black=6.3 white=100.0 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=10
+2016-03-06 13:39:03 {0} [ console ] : set_color_transform: black=0.0 white=100.0 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=11
+2016-03-06 13:39:04 {0} [ console ] : set_color_transform: black=0.0 white=95.3 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=12
+2016-03-06 13:39:04 {0} [ console ] : set_color_transform: black=0.0 white=94.5 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=13
+2016-03-06 13:39:05 {0} [ console ] : set_color_transform: black=0.0 white=85.9 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=14
+2016-03-06 13:39:05 {0} [ console ] : set_color_transform: black=0.0 white=76.6 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=15
+2016-03-06 13:39:05 {0} [ console ] : set_color_transform: black=0.0 white=71.9 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=16
+2016-03-06 13:39:05 {0} [ console ] : set_color_transform: black=0.0 white=68.0 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=17
+2016-03-06 13:39:05 {0} [ console ] : set_color_transform: black=0.0 white=64.5 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=18
+2016-03-06 13:39:05 {0} [ console ] : set_color_transform: black=0.0 white=59.8 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=19
+2016-03-06 13:39:05 {0} [ console ] : set_color_transform: black=0.0 white=50.8 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=20
+2016-03-06 13:39:05 {0} [ console ] : set_color_transform: black=0.0 white=46.1 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=21
+2016-03-06 13:39:06 {0} [ console ] : paintGL: frame 350:  0.8 msec, alloc=135 ready=131 drawn=32
+2016-03-06 13:39:08 {0} [ console ] : set_color_transform: black=0.0 white=45.7 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=22
+2016-03-06 13:39:08 {0} [ console ] : set_color_transform: black=0.0 white=44.5 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=23
+2016-03-06 13:39:08 {0} [ console ] : set_color_transform: black=0.0 white=35.5 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=24
+2016-03-06 13:39:08 {0} [ console ] : set_color_transform: black=0.0 white=29.7 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=25
+2016-03-06 13:39:08 {0} [ console ] : set_color_transform: black=0.0 white=28.5 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=26
+2016-03-06 13:39:08 {0} [ console ] : set_color_transform: black=0.0 white=27.7 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=27
+2016-03-06 13:39:08 {0} [ console ] : set_color_transform: black=0.0 white=26.2 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=28
+2016-03-06 13:39:08 {0} [ console ] : set_color_transform: black=0.0 white=26.6 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=29
+2016-03-06 13:39:08 {0} [ console ] : set_color_transform: black=0.0 white=35.5 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=30
+2016-03-06 13:39:08 {0} [ console ] : set_color_transform: black=0.0 white=43.8 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=31
+2016-03-06 13:39:09 {0} [ console ] : set_color_transform: black=0.0 white=46.1 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=32
+2016-03-06 13:39:09 {0} [ console ] : set_color_transform: black=0.0 white=45.7 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=33
+2016-03-06 13:39:09 {0} [ console ] : set_color_transform: black=0.0 white=37.9 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=34
+2016-03-06 13:39:09 {0} [ console ] : set_color_transform: black=0.0 white=35.5 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=35
+2016-03-06 13:39:11 {0} [ console ] : paintGL: frame 450:  5.6 msec, alloc=297 ready=293 drawn=33
+2016-03-06 13:39:14 {0} [ console ] : paintGL: frame 550:  0.6 msec, alloc=375 ready=362 drawn=25
+2016-03-06 13:39:20 {0} [ console ] : open_gigapan /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_02/2014-09-17_GigaPan_IzuOshima_02.gigapan
+2016-03-06 13:39:24 {0} [ console ] : GigapanStitcher::init_all
+2016-03-06 13:39:24 {0} [ console ] : GigapanStitcher::init_stitch
+2016-03-06 13:39:24 {0} [ console ] : QuadTree::~QuadTree: total deleted nodes encountered while adding: 16
+2016-03-06 13:39:24 {0} [ console ] : QuadTreePagerThread::stop: number of tile read errors: 0
+2016-03-06 13:39:24 {0} [ console ] : Initializing stitch_mode, upload_mode, upload_requested
+2016-03-06 13:39:24 {0} [ console ] : Read /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_02/2014-09-17_GigaPan_IzuOshima_02.gigapan successfully
+2016-03-06 13:39:24 {0} [ console ] : Found /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_02/2014-09-17_GigaPan_IzuOshima_02.data/tiles/r.info
+2016-03-06 13:39:24 {0} [ console ] : Switching stitch_mode to STITCH_FINISHED_MODE
+2016-03-06 13:39:24 {0} [ console ] : QuadTreeInfo: read from /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_02/2014-09-17_GigaPan_IzuOshima_02.data/tiles/r.info, tree has 9 levels
+2016-03-06 13:39:24 {0} [ console ] : valid_tiles_at_level(8)=Vector2(234,67)
+2016-03-06 13:39:24 {0} [ console ] : TileStatusSet created, m_work_level=8 width=234 height=67
+2016-03-06 13:39:24 {0} [ console ] : setup_viewer
+2016-03-06 13:39:24 {0} [ console ] : NodeFilter::NodeFilter: black=0.0 white=100.0 gamma=1.00 exposure=0.0 temperature=0 tint=0 saturation=1.00, filter_version=1
+2016-03-06 13:39:24 {0} [ console ] : Redirecting log to: /Users/taichi/Pictures/2014-09-17_GigaPan_IzuOshima_02/2014-09-17_GigaPan_IzuOshima_02.data/log20160306-133924.txt
